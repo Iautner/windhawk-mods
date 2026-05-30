@@ -1,7 +1,7 @@
 // ==WindhawkMod==
 // @id              icloud-tray-quit
 // @name            iCloud Tray Quit Button
-// @description     Adds a custom Quit button to the iCloud system tray menu and terminates core iCloud background processes.
+// @description     Adds a Quit option to the iCloud system tray menu and kills iCloud background processes.
 // @version         1.0.0
 // @author          Lautner
 // @github          https://github.com/Iautner
